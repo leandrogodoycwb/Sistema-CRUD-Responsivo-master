@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tela {
+    position: relative;
+    width: 1350px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+form{
+    width: 330px;
+    background-color: rgba(0,0,0,.2);
+    padding: 20px;
+    margin: 30px auto;
+}
+
+#aa {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 0px 5px;
+    display: block;
+    text-align: center;
+}
+
+#a {
+    background-color:rgba(0,0,0,.2);
+    color: black;
+    padding: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+#aa:hover{
+    background-color: rgba(0,0,0,.2);
+}
+
+label,input{
+    display: block;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+label,input{
+    display: block;
+    line-height: 30px;
+    height: 35px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+}

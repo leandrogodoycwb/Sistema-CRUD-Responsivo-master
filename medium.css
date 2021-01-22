@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tela {
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+input[type="submit"]{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#a {
+    background-color:rgba(0,0,0,.6);
+    color: black;
+    padding: 5px;
+    margin: 0px 5px;
+    display: block;
+    text-decoration: none;
+}
+
+#aa {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 0px 5px;
+    display: block;
+    text-align: center;
+}
+
+#aa:hover{
+    background-color: rgba(0,0,0,.2);
+}
+
+label,input{
+    display: block;
+    line-height: 30px;
+    height: 25px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+form{
+    width: 300px;
+    background-color: rgba(0,0,0,.2);
+    padding: 30px;
+    margin: 20px auto;
+}
